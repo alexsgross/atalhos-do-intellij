@@ -1,4 +1,5 @@
-# <h2>😜Atalhos-do-intellij</h2>
+<img ALIGN=RIGHT src="https://iconape.com/wp-content/files/qb/371174/svg/371174.svg">
+<h2>😜Atalhos-do-intellij</h2>
 
 Para ajudar e facilitar nossa vida de Dev jr. Segue todos os atalhos para intellij
 <hr>
